@@ -1,0 +1,15 @@
+
+.rd {
+    animation: changebg 1s linear infinite;
+
+}
+
+@keyframes changebg {
+    50% {
+        color: rgb(173, 176, 179);
+    }
+
+    100% {
+        color: yellow;
+    }
+}
